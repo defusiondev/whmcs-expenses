@@ -1,0 +1,62 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.lft{float:left; display:inline;}
+.rgt{float:right; display:inline;}
+.clr{clear:both;}
+.brdr{border:solid 1px #000;}
+h1,p,h2,h3,h4,h5,h6,form,div,ul,li{margin:0px; padding:0px;}
+a img{border:none; float:left; font-weight:normal;}
+.map{padding:0px; margin:0px;}
+.input{ margin:0px; padding:0px; display:inline;}
+
+
+.main_table1{ background-color:#f5f5f5; -moz-border-radius: 5px; -webkit-border-radius: 5px; border: 1px solid #dddddd; }
+.padding001{ padding-left:10px;}
+.mainboxdiv{ width:700px; height:auto; float:left;}
+.clenderbox{ width:372px; height:334px; float:left;}
+.clenderbox img{ width:372px; height:334px; float:left;}
+
+.head_logmnain{ height:auto; line-height:25px; float:left; color:#000000; font-size:14px; font-weight:bold;}
+
+.text_project{ color:#000000; font-size:14px; font-weight:normal;}
+.text_project h1{ color:#000000; font-size:14px; font-weight:bold; padding-top:6px;}
+.text_project select{ width:200px; height:25px; color:#000000; font-size:14px; font-weight:normal;}
+.text_project input{ width:auto; height:25px; color:#000000; font-size:14px; font-weight:normal;}
+.text_project textarea{ width:200px; height:60px; color:#000000; font-size:14px; font-weight:normal;}
+.text_project a img{ color:#000000; font-size:14px; font-weight:bold; margin-top:3px; display:inline;}
+
+
+.text_newproject{ width:700px; height:auto; line-height:50px; color:#000000; font-size:18px; font-weight:bold;}
+.txt_projectinfo{ width:640px; height:auto; line-height:25px; float:left; color:#474747; -moz-border-radius: 5px; -webkit-border-radius: 5px; border: 1px solid #dddddd; padding-left:40px; background:url('../images/book_img001.png') left center no-repeat #e8e8e8;}
+
+.textname_box{ text-align:right; color:#000000; font-weight:normal; font-size:14px;}
+.textfieldname{ text-align:left; color:#000000; font-weight:normal; font-size:14px; padding-left:20px;}
+
+.text_project1{ color:#000000; font-size:14px; font-weight:normal; padding:5px 0 0 20px;}
+.text_project1 h1{ color:#000000; font-size:14px; font-weight:bold; padding-top:6px;}
+.text_project1 select{ width:200px; height:25px; color:#000000; font-size:14px; font-weight:normal;}
+.text_project1 input{ width:200px; height:25px; color:#000000; font-size:14px; font-weight:normal;}
+.text_project1 textarea{ width:500px; height:80px; color:#000000; font-size:14px; font-weight:normal;}
+.text_project1 a img{ color:#000000; font-size:14px; font-weight:bold; margin-top:3px; display:inline;}
+
+.blue_bg1{ background-color:#1a4d80; line-height:20px; color:#FFFFFF;}
+.errormessagebox {
+    background-color: #FBEEEB;
+    border: 1px dashed #CC0000;
+    border-radius: 6px 6px 6px 6px;
+    color: #CC0000;
+    font-weight: bold;
+    margin: 10px auto;
+    padding: 10px 15px;
+    text-align: center;
+    width: 90%;
+}
+
+
+
+
+
+
+

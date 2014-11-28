@@ -1,0 +1,2 @@
+// jQuery verboseLoad Plugin by John Terenzio (http://terenz.io)
+(function(){$.fn.verboseLoad=function(loadingHTML,url,data,callback){return this.each(function(){$(this).html(loadingHTML);$(this).load(url,data,callback);});};})(jQuery);
